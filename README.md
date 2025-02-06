@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mina boles</h1>
-<h3 align="center">I'm a Frontend developer living in Egypt. I'm a high school student who studied programming languages such as : html, css, javascript, and frameworks like Bootstrap, ReactJS, I am still developing myself, training, creating projects and ready to work.</h3>
+<h3 align="center">👨‍💻 Mina Boles | Front-End Developer 🎨 Creating sleek, responsive user interfaces ⚡ Turning ideas into digital experiences 📍 Egypt | DM for inquiries</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minabol3s&label=Profile%20views&color=0e75b6&style=flat" alt="minabol3s" /> </p>
 
