@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=ef4444&width=760&lines=Full-stack+developer%3BOpen-source+enthusiast&center=true&vCenter=true" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1100&color=ef4444&width=760&lines=QA+Tester%3BOpen-source+enthusiast&center=true&vCenter=true" alt="Animated introduction" />
 
 </div>
 
@@ -93,5 +93,11 @@ _No projects added yet._
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C45%3A7f1d1d%2C100%3Aef4444&height=86&section=footer&animation=fadeIn" alt="Profile footer" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C45%3A7f1d1d%2C100%3Aef4444&height=220&section=header&animation=fadeIn&text=mina+boles&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=QA+Tester&descSize=18&descAlignY=58" alt="Profile banner" width="100%" />
 
 </div>
