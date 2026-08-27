@@ -1,16 +1,12 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C45%3A7f1d1d%2C100%3Aef4444&height=108&section=header&animation=fadeIn" alt="Profile header" width="100%" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0d1117%2C45%3A7f1d1d%2C100%3Aef4444&height=108&section=header&animation=fadeIn" alt="Profile banner" width="100%" />
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/903765?v=4" alt="mina boles" width="112" />
+<img src="https://github.com/minabol3s.png?utm_source=chatgpt.com" alt="mina boles" width="112" />
 
 <h1>Hi, I’m mina boles 👋</h1>
 
-<p><strong>QA Tester \| Manual Testing \| Quality Advocate \| DEPI</strong></p>
+<p><strong>QA Tester</strong></p>
 
 <p>Software Tester focused on manual testing, test case design, bug reporting, functional and regression testing. Currently developing practical QA skills through DEPI.</p>
 
